@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @232squreincircle
 - 👀 I’m interested in backend/game development/cybersecurity/cloud
-- 🌱 I’m currently learning python/java/C++/SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning python/java/javascript/C++
+- 💞️ I’m looking to collaborate on machine learning, gaming developing, hardware design, and quantum computing
+- 📫 How to reach me: liu30941@gmail.com
+- ⚡ Fun fact: I like longsword
 
 <!---
 232squreincircle/232squreincircle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
