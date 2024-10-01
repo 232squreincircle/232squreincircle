@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @232squreincircle
 - 👀 I’m interested in backend/game development/cybersecurity/cloud
 - 🌱 I’m currently learning python/java/javascript/C++
-- 💞️ I’m looking to collaborate on machine learning, gaming developing, hardware design, and quantum computing
+- 💞️ I’m looking to collaborate on machine learning, IT, and game designing, my goal is to become a system architect.
 - 📫 How to reach me: liu30941@gmail.com
 - ⚡ Fun fact: I like longsword
 
